@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-grishchenkov)](https://github.com/alex-grishchenkov/github-readme-stats)
+
+- 💬 Ask me about creating chat-bots
+
+[![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-grishchenkov)](https://github.com/alex-grishchenkov/github-readme-stats&show_icons=true&theme=radical)
 
 <!--
 **alex-grishchenkov/alex-grishchenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
