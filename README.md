@@ -2,7 +2,7 @@
 
 - 💬 Ask me about creating chat-bots
 
-![Alex's GitHub stats](https://github-readme-stats.vercel.app/api?username=alex-grishchenkov&show_icons=true&theme=graywhite&count_private=true)
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Grishchenkov&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **alex-grishchenkov/alex-grishchenkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
